@@ -1,0 +1,17 @@
+/**
+ * Created by alejandrorioscalera
+ * On 20/10/17
+ *
+ * -- SOCIAL NETWORKS --
+ *
+ * GitHub: https://github.com/clonalejandro or @clonalejandro
+ * Website: https://clonalejandro.me/
+ * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
+ * Keybase: https://keybase.io/clonalejandro/
+ *
+ * -- LICENSE --
+ *
+ * All rights reserved for clonalejandro ©malextrap 2017 / 2018
+ */
+ body{background:#2c3e50}body{transition:background-color 300ms 440ms ease-out}body:after{background-image:inherit}#bgInput1{width:70px;text-align:center;margin:auto;border:0;outline:0;background:transparent;border-bottom:1px solid #ccc}input[type="submit"]{color:#444;border:none;outline:none;background-color:transparent;border-radius:2px;padding:10px 0;text-transform:uppercase;transition:opacity .2s ease,background-color .2s ease-in-out}input[type="submit"]:hover{cursor:pointer}input[type="submit"]:focus{cursor:pointer}*:focus{outline:0}#wrapper{width:100%;height:100%}.demo{width:20%;height:25%;float:left;padding:10% 5px 5px;color:#fff;font-size:10px;box-sizing:border-box}.demo h1{margin-top:80%;text-align:right;font-weight:500;font-size:1.5em;font-family:"Open Sans","Helvetica Neue",sans-serif}.demo.primary{background-color:#5A94E0}.demo.secondary{background-color:#F3F4F8}.demo.terciary{background-color:#CED2D9}.demo.gray{background-color:#7A8599}.demo.dark{background-color:#353D4C}.demo.pure_white{background-color:#fff}.demo.default{background-color:#fff}.demo.blue{background-color:#4595E6}.demo.cyan{background-color:#22b8cf}.demo.emerald{background-color:#2ecc71}.demo.green{background-color:#5FB335}.demo.salmon{background-color:#fa5252}.demo.red{background-color:#f03e3e}.demo.pink{background-color:#e64980}.demo.grape{background-color:#be4bdb}.demo.violet{background-color:#7950f2}.demo.yellow{background-color:#fcc419}.demo.orange{background-color:#fd7e14}.demo.teal{background-color:#12b886}.btn.blue.special{background:transparent;border:#fff solid .5px;color:#fff;font-size:1.3em}.btn.sp{font-size:1.3em}.isCopied{position:fixed;width:140%;height:100%;background-color:transparent;text-align:center;top:0;left:-20%}.isCopied>.title{width:100%;height:60px;line-height:60px;font-size:60px;position:absolute;margin-top:-120px;color:#F3F4F8;top:50%;text-align:center;background:rgba(255,255,255,0.2);padding:30px 0}.isCopied>.title.forWhites{color:#000;background-color:rgba(0,0,0,0.2)}div.copier{margin-bottom:-50%}
+/*# sourceMappingURL=palette.min.css.map */
